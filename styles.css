@@ -1,5 +1,16 @@
 .center-me {
-    margin: 0 auto;
+    margin: auto auto;
     height: 112px; 
     width: 320px;
+}
+
+ul {
+list-style-type: none;
+}
+
+li {
+    float: right;
+    display: block;
+    padding: 6px;
+    font-size: 10;
 }
